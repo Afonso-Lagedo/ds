@@ -31,3 +31,13 @@ VERIFICAR AS ALTERAÇÕES: git status
 PREPARAR AS ALTERAÇÕES: git add .
 NOMEAR MEU COMMIT: git commit -m "nome-do-commit"
 SUBIR AS ALTERAÇÕES: git push
+
+
+
+##################################################################################
+
+
+MODO COLABORATIVO:
+
+No painel do repositório
+Configurações>>Colaboradores
